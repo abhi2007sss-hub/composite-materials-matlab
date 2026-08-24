@@ -5,4 +5,4 @@ Results
 
 Elastic Modulus vs Fiber Volume Fraction
 
-![Composite Modulus Graph](composite_modulus.png)
+https://github.com/abhi2007sss-hub/composite-materials-matlab/blob/main/rule_of_mixtures.png
